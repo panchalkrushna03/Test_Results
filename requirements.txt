@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+pandas-datareader
+pandas-datareader
+cookiecutter
+ipykernel
+feature_engine
+mlflow
+xgboost
+dvc
+joblib
+fastapi

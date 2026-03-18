@@ -1,0 +1,15 @@
+data:
+  raw_data_path: D:\Healthcare\healthcare\data\raw\Healthcare_dataset.csv
+  clean_data_path: D:\Healthcare\healthcare\data\cleaned\clean.csv
+  encoded_data_path: data/processed/encoded.csv
+  split_data_path: data/split/
+
+model:
+  model_path: D:\Healthcare\artifacts\model.pkl
+target_column: Test Results
+
+test_size: 0.2
+random_state: 42
+
+artifacts:
+  preprocessor_path: artifacts/preprocessor.pkl
